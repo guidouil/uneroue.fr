@@ -4,3 +4,7 @@
     align-items:center;
     min-height: 90vh;
 }
+
+h1, p {
+    text-align: center;
+}
